@@ -9,7 +9,7 @@ def getJobList(role,location):
 #save data in JSON file
 def saveDataInJSON(jobDetails):
     #Complete the missing part of this function here
-    print("Saving data to JSON")
+    print("Saving jobDetails data to JSON")
 
 #main function
 def main():
